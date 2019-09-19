@@ -585,6 +585,16 @@ input.input-radio {
   margin: 3px;
 }
 
+@media only screen and (max-width: 600px) {
+  #cbtn1 {
+    padding: 0 15vw;
+    background: #fff;
+    border: black solid;
+    border-radius: 5px;
+    margin: 3px;
+  }
+}
+
 #cbtn1:hover {
   background: #111234;
   border: black solid;
@@ -599,6 +609,17 @@ input.input-radio {
   border-radius: 5px;
   margin: 3px;
   padding: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  #cbtn2 {
+    padding: 0 21.7vw;
+    background: #fff;
+    border: black solid;
+    border-radius: 5px;
+    margin: 3px;
+    padding: auto;
+  }
 }
 
 #cbtn2:hover {
