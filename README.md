@@ -6,7 +6,7 @@ Open Source Day is an annual event conducted by OSL-VVCE to create awareness amo
 
 ## Demo
 
-https://osl-vvce.github.io/osd-registeration/
+https://osl-vvce.github.io/osd-registration/
 
 ## Home Page
 
